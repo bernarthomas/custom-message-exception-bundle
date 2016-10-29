@@ -1,0 +1,4 @@
+services:
+#    custom_message_exception.example:
+#        class: Bt\Bundle\CustomMessageExceptionBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
