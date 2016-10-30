@@ -1,0 +1,25 @@
+{
+  "name": "bernarthomas/custom-message-exception-bundle",
+  "description": "Now you can throw an exception and show the exception message in error template",
+  "type": "symfony-bundle",
+  "authors": [
+    {
+      "name": "Bernard Thomas",
+      "email": "bernarthomas@free.fr"
+    }
+  ],
+  "keywords": [
+    "custom message exception symfony bundle"
+  ],
+  "require": {
+    "php": ">=5.6.0",
+    "symfony/framework-bundle": ">=3.1.6",
+    "twig/twig": "*",
+    "doctrine/doctrine-bundle": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Bt\\Bundle\\CustomMessageExceptionBundle\\": ""
+    }
+  }
+}

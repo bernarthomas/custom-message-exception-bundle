@@ -39,3 +39,4 @@ class CustomMessageExceptionExtension extends Extension
         $loader->load('services.yml');
     }
 }
+

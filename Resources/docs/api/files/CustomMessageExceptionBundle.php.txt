@@ -22,3 +22,4 @@ use Symfony\Component\HttpKernel\Bundle\Bundle;
 class CustomMessageExceptionBundle extends Bundle
 {
 }
+
