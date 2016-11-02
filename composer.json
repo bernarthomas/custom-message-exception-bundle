@@ -1,7 +1,6 @@
 {
   "name": "bernarthomas/custom-message-exception-bundle",
   "description": "Now you can throw an exception and show the exception message in error template",
-  "langage": "php",
   "type": "symfony-bundle",
   "authors": [
     {
