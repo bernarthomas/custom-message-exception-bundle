@@ -8,6 +8,7 @@
       "email": "bernarthomas@free.fr"
     }
   ],
+  "license": "MIT",
   "keywords": [
     "custom message exception symfony bundle"
   ],
