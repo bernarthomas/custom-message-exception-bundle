@@ -96,3 +96,10 @@ In your browser : [http://localhost:8000/app.php](http://localhost:8000/app.php)
 
 If you use app_dev.php, you see the debug exception page with CustomException message.
 If you use app.php, you see the default error page with CustomException message.
+
+Override error template
+-------------------------
+To adapt the error view to your need, just copy vendor/bernarthomas/custom-message-exception-bundle/Resources/views/Exception/error.html.twig
+and paste it at app/Resources/CustomMessageExceptionBundle/views/Exception/error.html.twig.
+
+Modify the template and enjoy.
